@@ -1,11 +1,13 @@
 # MyBank Android
 
 Para rodar o aplicativo é necessário subir o mockserver **Mockoon** usando o arquivo de configuração `Mockoon-MyBank.json` que está na raiz do projeto.
-
 ## Visão geral
 
 - Projeto Android em Kotlin usando Compose, retrofits com Moshi e arquitetura MVVM limpa.
 - Dependências e módulos estão organizados em `app` e `selfievalidation`, com Koin para injeção de dependências.
+
+![layout.png]
+!(layout.png)
 
 ## Como iniciar
 
